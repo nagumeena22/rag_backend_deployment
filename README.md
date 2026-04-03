@@ -1,6 +1,6 @@
 ﻿# rag_backend_deployment
 
-rag
+RAG
    1.vectordb
    2.llm
    3.embeddings
