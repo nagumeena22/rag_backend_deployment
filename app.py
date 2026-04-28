@@ -11,7 +11,7 @@ from langchain_community.vectorstores import FAISS
 from groq import Groq
 
 
-
+--------loadenv----------
 
 load_dotenv()
 
